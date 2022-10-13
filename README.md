@@ -1,5 +1,6 @@
 ## Genome-Sequencing
 Before beginning genome assembly, please install the following programs or obtain access to them
+# Assembly
 - [guppy](https://nanoporetech.com/community) - need account to download
 - [Trimmomatic](https://github.com/usadellab/Trimmomatic)
 - [SPAdes](https://github.com/ablab/spades)
@@ -11,6 +12,7 @@ Before beginning genome assembly, please install the following programs or obtai
 - [fastP](https://github.com/OpenGene/fastp)
 - [bwa](https://bio-bwa.sourceforge.net/)
 - [Polypolish](https://github.com/rrwick/Polypolish)
+# Analysis 
 - [BUSCO](https://busco.ezlab.org/)
 - [parsnp](https://github.com/marbl/parsnp)
 - [Annotale](http://www.jstacs.de/index.php/AnnoTALE)
